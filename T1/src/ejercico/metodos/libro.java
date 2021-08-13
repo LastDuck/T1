@@ -14,5 +14,6 @@ public class libro {
 	System.out.println("costo:"+Costo+"$");
 	System.out.println("Tipo de libro:"+tipo);
 	System.out.println("------------------------------");
+	
 	}
 }
