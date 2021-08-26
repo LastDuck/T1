@@ -7,11 +7,14 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		//modifi
 		Empleado danilo = new Empleado();
 		danilo.setNombre("Danilo");
 		danilo.setApellido("Alvarracin");
 		danilo.setEdad(22);
 		danilo.setSalario(800.45);
+		
+		
 		
 		Empleado andres = new Empleado();
 		andres.setNombre("Andres");
