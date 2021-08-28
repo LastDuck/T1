@@ -1,6 +1,6 @@
 package tablero.ajedrez;
 
-public class Piezas {
+public  abstract class Piezas {
 
 
 }
